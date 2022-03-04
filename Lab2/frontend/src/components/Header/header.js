@@ -7,7 +7,7 @@ const header=(props)=>
     return (
         <header>
             <nav className="navbar navbar-expand-md navbar-dark navbar-fixed bg-dark">
-                <a className="navbar-brand" href="/books">E-Library
+                <a className="navbar-brand" href="/books">E-Library Application
                     <img src="https://img.icons8.com/clouds/100/000000/book.png"/>
                 </a>
                 <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse"
